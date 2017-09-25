@@ -1,0 +1,9 @@
+/project/03_src/springboot/chap04/src/main/java/com/example/Chap04Application.java
+/project/03_src/springboot/chap04/src/main/java/com/example/ServletInitializer.java
+/project/03_src/springboot/chap04/src/main/java/com/example/domain/Profile.java
+/project/03_src/springboot/chap04/src/main/java/com/example/repository/ProfileRepository.java
+/project/03_src/springboot/chap04/src/main/java/com/example/domain/Member.java
+/project/03_src/springboot/chap04/src/main/java/com/example/repository/MyDeptRepository.java
+/project/03_src/springboot/chap04/src/main/java/com/example/domain/MyDept.java
+/project/03_src/springboot/chap04/src/main/java/com/example/domain/MyEmp.java
+/project/03_src/springboot/chap04/src/main/java/com/example/repository/MyEmpRepository.java
